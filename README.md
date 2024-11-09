@@ -17,7 +17,7 @@ Tris Store is an online e-commerce website for women’s fashion, designed with 
 
 ## Getting Started
 1. Clone the repository:  
-   `git clone https://github.com/your-username/tris-store.git`
+   `git clone https://github.com/your-username/dress-store.git`
 2. Navigate to the project folder.
 3. Open `index.html` in your browser.
 
