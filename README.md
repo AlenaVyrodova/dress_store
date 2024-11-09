@@ -1,4 +1,4 @@
-# Tris Store
+# Dress Store
 
 ## Overview
 Tris Store is an online e-commerce website for women’s fashion, designed with a modern, minimalistic look and responsive functionality. The website is built using HTML, CSS, and JavaScript to create a user-friendly shopping experience.
